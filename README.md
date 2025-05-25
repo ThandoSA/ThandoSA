@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thando
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data analysis and Software Engineering 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT and Python
 - 💞️ I’m looking to collaborate on any coding project (Beginner level)
 - 📫 How to reach me Email:thandothandolenkosi399@gmail.com
